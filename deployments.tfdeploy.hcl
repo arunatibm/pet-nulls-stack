@@ -70,3 +70,10 @@ deployment "group10" {
     instances        = 1
   }
 }
+
+deployment "group11" {
+  inputs = {
+    prefix           = "group11"
+    instances        = 1
+  }
+}
