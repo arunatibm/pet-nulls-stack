@@ -6,6 +6,7 @@ deployment "simple" {
     prefix           = "simple"
     instances        = 1
   }
+  migrate = true
 }
 
 deployment "complex" {
