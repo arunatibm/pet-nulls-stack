@@ -2,8 +2,13 @@
   "terraform_source_bundle": 1,
   "packages": [
     {
-      "source": "git::https://github.com/arunatibm/pet-nulls-modules.git",
-      "local": "b9tE91zZ1fzHEfnjbtbe_igB2jjs1b53T1v1c5yi5dY",
+      "source": "git::https://github.com/arunatibm/nulls.git",
+      "local": "OSg7TSX4XtfawW0d9pzPS9tYLLWLBKliRiHmxboTKAI",
+      "meta": {}
+    },
+    {
+      "source": "git::https://github.com/arunatibm/pet.git",
+      "local": "ZfGznAtOlh3_ZKtnBizLAK-ABdG4fUZbIw9qgHSThV4",
       "meta": {}
     }
   ]
