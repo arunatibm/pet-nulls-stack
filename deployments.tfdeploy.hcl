@@ -15,7 +15,7 @@ deployment "complex" {
   }
 }
 
-deployment "complex" {
+deployment "fancy" {
   inputs = {
     prefix           = "fancy"
     instances        = 5
