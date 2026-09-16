@@ -24,10 +24,6 @@ resource "null_resource" "this" {
   triggers = {
     pet = var.pet
   }
-
-  tags = {
-    environment = "test"
-  }
 }
 
 output "ids" {
